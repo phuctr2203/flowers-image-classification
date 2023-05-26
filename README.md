@@ -1,10 +1,8 @@
 # Flower Images Classification using CNN
 
-
-
-COSC2753 - Machine Learning
-Machine Learning Project: Assignment 2
-Group T3_G06
+##COSC2753 - Machine Learning
+###Machine Learning Project: Assignment 2
+###Group T3_G06
 
 Instruction how to set up the environment to run our file
 
