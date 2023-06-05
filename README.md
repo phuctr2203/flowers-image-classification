@@ -4,28 +4,20 @@
 ### Machine Learning Project: Assignment 2
 ### Group T3_G06
 
-Instruction how to set up the environment to run our file
+## Libraries Requirement
+- pillow
+- torch
+- numpy
+- pandas
+- torchvision
+- pickle
+- tqdm
+- matplotlib
+- annoy
 
-**To run the code successfully, users are required to install several libraries and use some modules: pillow, torch, torchvision, pickle, numpy, annoy, tqdm, matplotlib, pandas. Here are the steps to install them:
-1. Open the terminal or command prompt
-2. use pip statement and run the command correctly as we provided:
-- pillow: pip install pillow
-- torch: pip install torch
-- numpy: pip install numpy
-- pandas: pip install pandas
-- torchvision: pip install torchvision
-- pickle: you can directly use pickle by finding the code in the Notebook that contains "import pickle" and reun the code
-- tqdm: pip install tqdm
-- matplotlib: pip install matplotlib
-- annoy: pip install annoy (if faces error, please see part 4)
+## Setup
+How to run this project: 
 
-3. Install 'annoy':
-- First, install Microsoft C++ Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
-- Then, run the VS Build Tool and install: Microsoft Visual C++ 14.0 or greater 
-- Restart the PC
-- Go to command prompt and install 'annoy': pip instll annoy
-
-**How to run models**
 1. Download the zip file and unzip the file
 2. To run the model for task 1 and task 2, open and run from Command Prompt
 
