@@ -36,13 +36,3 @@ How to run this project:
 - After finish running, go to folder "Task 2" to find file "reverse_search_output.png" to see the result.
 ~~~
 
-### Folder Structure:
-#!/bin/bash
-
-#File: tree-md
-
-tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
-       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
-
-printf "# Project tree\n\n${tree}"
-
