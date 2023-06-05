@@ -23,13 +23,13 @@ How to run this project:
 - Open the Task 1 folder to get the location of Task_1.py file inside Task 1 folder
 - Use "cd path/to/directory" command in your Command Prompt to navigate and switch your current directory to Task 1 folder
 - After your directory in Command Prompt is pointed to Task 1 folder, type the below command and run:<br>
-	python "Task 1.py" "path/to/your_test_image_folder/your_chosen_test_image"
+	python "Task 1.py" "path/your_chosen_test_image"
 
 
 #### Task 2:
 - Change directory to folder "Task 2". (cd path/to/directory)
 - Use command: <br>
-	python "Task 2.py" "path/to/your_test_image_folder/your_chosen_test_image"
+	python "Task 2.py" "path/your_chosen_test_image"
 
 - After finish running, go to folder "Task 2" to find file "reverse_search_output.png" to see the result.
 
