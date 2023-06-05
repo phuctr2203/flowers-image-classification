@@ -36,3 +36,6 @@ How to run this project:
 - After finish running, go to folder "Task 2" to find file "reverse_search_output.png" to see the result.
 ~~~
 
+### Result:
+<img src="Result.png">
+
