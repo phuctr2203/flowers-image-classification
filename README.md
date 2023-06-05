@@ -24,8 +24,7 @@ How to run this project:
 - Use "cd path/to/directory" command in your Command Prompt to navigate and switch your current directory to Task 1 folder
 - After your directory in Command Prompt is pointed to Task 1 folder, type the below command and run:
 	python "Task 1.py" "path/to/your_test_image_folder/your_chosen_test_image"
-For example: python "Task 1.py" "C:\Users\ASUS STRIX\Documents\Machine Learning\assignment\Assignment2\Test\5. Pingpong\IMG_0627.PNG"
-- Then wait and the result of classification will be displayed in a few second
+
 
 #### Task 2:
 - Change directory to folder "Task 2". (cd path/to/directory)
