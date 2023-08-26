@@ -2,6 +2,13 @@
 
 ## COSC2753 - Machine Learning Assignment 2 - Group T3_G06
 
+•	Work in a team of 4 to develop machine learning models for flowers image classification and recommendation by applying ResNet-18 and VGG-16 architectures based on Convolutional Neural Networks. 
+•	Response for data preprocessing and experimenting the model using ResNet-18. 
+•	Tools and Libraries: Python, Pytorch, Torchvision, Matplotlib. 
+•	Mark: High Distinction (85%). 
+![image](https://github.com/phuctr2203/flowers-image-classification/assets/104712325/545993e4-54e0-448c-9ced-56fd8fd22e77)
+
+
 ### Libraries Requirement
 - pillow
 - torch
