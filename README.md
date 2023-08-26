@@ -6,8 +6,6 @@
 •	Response for data preprocessing and experimenting the model using ResNet-18. 
 •	Tools and Libraries: Python, Pytorch, Torchvision, Matplotlib. 
 •	Mark: High Distinction (85%). 
-![image](https://github.com/phuctr2203/flowers-image-classification/assets/104712325/545993e4-54e0-448c-9ced-56fd8fd22e77)
-
 
 ### Libraries Requirement
 - pillow
